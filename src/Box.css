@@ -1,0 +1,16 @@
+.Box {
+    border: black 2px solid;
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    margin: 5px;
+
+}
+
+.Box-msg {
+    color: white;
+    font-size: 15px;
+    position: absolute;
+    margin-top: 5%;
+    margin-left: 2%;
+}
